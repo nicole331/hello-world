@@ -1,3 +1,3 @@
 # hello-world
 Library Carpentry test repo
-This is a test file for the Library Carpentries workshop.
+This is a test file for the Library Carpentries workshop. Fear it.
